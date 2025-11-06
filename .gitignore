@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 .env
 /node_modules/
@@ -5,3 +6,29 @@
 # React Router
 /.react-router/
 /build/
+=======
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+>>>>>>> e7524addce4d5649d5be7768e71c6449ac0345e2
